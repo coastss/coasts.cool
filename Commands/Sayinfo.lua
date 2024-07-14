@@ -19,17 +19,7 @@ if not HasPermissions then return end
 local ServerRules = [==[
 If a staff member is abusing their powers please let <@317751432394571817> know.
 ```
-1. No spamming, raiding, or very long messages that can fill the chat. (Mute)
-2. Absolutely NO NSFW or gore. This includes: Pornography, Gore, Child Pornography, Animal Tortue, etc. (Ban)
-3. No unsafe files or links. Such as: .rars, .exes, and any other type of file or link that looks suspicious. Let one of us know and we will take care of it. (Ban)
-4. No serious threats. Such as: leaking info, ddosing, doxing, etc. (Ban)
-5. No advertising, Like: youtube, twitter, etc. (Warn or Mute)
-6. No drama, we aren't here to solve your problems. (Warn or Mute)
-7. Don't ping staff for no reason. (Warn or Mute)
-8. Making people in this server to raid people or other servers. (Which is also against the Terms of Service.) (Ban)
-9. No racism or racial slurs, homophobia, or any other type of discrimination to someone. (Ban)
-10. Don't try to avoid a ban or mute. (Ban)
-11. No flashing/epileptic images. (Ban)```]==]
+```]==]
 
 local HowToWhitelist = [==[
 1. DM <@722563986285133945> `!getwhitelister`.
