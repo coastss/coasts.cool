@@ -39,7 +39,7 @@ Message:reply(Utilities.CreateEmbed("Coasting Info", {
     "How to Whitelist:",
     HowToWhitelist,
     "Wanna invite a friend? Tell them to fill this out:",
-    "https://docs.google.com/forms/d/e/1FAIpQLSd7Wa60sRAKveEoTl6J35k7OMadgCB3-w5MFfpl62CGxgDu8w/viewform"
+    ""
 }, Configuration.Colors.Red))
 
 Message:reply()
